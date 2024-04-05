@@ -1,0 +1,13 @@
+Files:
+
+	The ICT304_Assignment_1_1.ipynb is the current working version of the predictor, it includes testing and displaying results
+
+	The ICT304_Predictor_Prototype.py is the design of the predictor when it is implemented in the controller but currently causing errors when intergrating so left seperate for assignment 1
+
+	The Data_generator.ipynb is a piece of code created by the AI Phind https://www.phind.com/search?home=true, and is used to generate random itemQTY for the invoices
+	
+	invoices_tester is the database used by the predictor to train the model, currently no seasonality because of time constraints but will be changed to include it for assignment 2
+
+Instructions
+	To run the predictor you need to extract the ICT304_Assignment_1_1.ipynb into your annaconda root folder, make sure both the .ipynb and invoices_tester.csv are in the same location otherwise errors will occure, run the cells
+	in the predetermined order for the code to run properly

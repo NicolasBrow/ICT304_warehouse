@@ -1,0 +1,51 @@
+itemID,itemName,itemDesc,itemPrice,currentStock,minStock,length,width,height
+111111,Dog Coat (S),A small sized dog coat. Various color options.,16.99,10,10,30,20,5
+111112,Cat Scratching Post,Durable scratching post for cats.,24.99,15,15,40,40,60
+111113,Rabbit Hutch,Spacious hutch for rabbits with multiple compartments.,99.99,8,8,100,60,80
+111114,Dog Leash (M),Medium-sized dog leash with reflective strips.,12.99,20,20,150,2,1
+111115,Cat Toy Set,Set of assorted toys to entertain your cat.,19.99,25,25,20,15,10
+111116,Dog Bed (L),Large orthopedic dog bed for maximum comfort.,49.99,12,12,80,60,20
+111117,Bird Cage,Stylish cage for small birds.,29.99,18,18,60,40,50
+111118,Fish Tank (20 gallons),Aquarium suitable for small fish.,79.99,10,10,30,30,30
+111119,Hamster Wheel,Silent-running wheel for hamsters.,9.99,30,30,20,10,10
+111120,Dog Chew Toy,Durable chew toy for dogs. Helps with dental health.,8.99,15,15,15,5,5
+111121,Cat Litter Box,Spacious litter box with odor control.,34.99,20,20,50,40,20
+111122,Rabbit Hay Feeder,Convenient feeder for rabbits to access hay.,14.99,15,15,20,15,10
+111123,Dog Food Bowl (S),Small-sized stainless steel bowl for dogs.,6.99,50,50,15,15,5
+111124,Cat Collar,Adjustable collar with bell for safety.,5.99,35,35,30,1,1
+111125,Bird Perch,Natural wood perch for birds to rest and play.,7.99,45,45,20,2,2
+111126,Guinea Pig Cage,Cozy cage for guinea pigs with multiple levels.,39.99,10,10,80,50,40
+111127,Dog Grooming Brush,Soft-bristled brush for grooming dogs.,11.99,30,30,20,5,5
+111128,Catnip,Premium catnip to entice your cat.,3.99,25,25,10,7,2
+111129,Turtle Tank,Tank setup for turtles with basking area.,89.99,8,8,40,25,20
+111130,Ferret Tunnel,Tunnel system for ferrets to explore and play.,17.99,20,20,30,15,15
+111131,Dog Treats,Assorted flavors of treats for dogs.,9.99,60,60,20,15,10
+111132,Cat Tree,Multi-level tree for cats to climb and scratch.,59.99,10,10,100,80,160
+111133,Rabbit Water Bottle,Drip-resistant water bottle for rabbits.,8.99,25,25,20,8,8
+111134,Dog Poop Bags,Biodegradable bags for convenient waste disposal.,4.99,70,25,20,15,1
+111135,Fish Food,Nutritious food pellets for fish.,12.99,40,70,20,15,5
+111136,Hamster Cage,Compact cage with exercise wheel for hamsters.,29.99,15,40,40,25,20
+111137,Dog Training Clicker,Clicker tool for positive reinforcement training.,3.99,50,15,5,3,1
+111138,Cat Bed (M),Medium-sized cozy bed for cats.,19.99,25,50,50,40,10
+111139,Bird Swing,Swing perch for birds to exercise and relax.,6.99,35,25,15,10,1
+111140,Rabbit Chew Toy,Chewable toy for rabbits to keep their teeth healthy.,5.99,30,35,10,5,5
+111141,Dog Cooling Mat,Cooling mat for dogs to beat the heat.,21.99,20,30,80,50,1
+111142,Cat Tunnel,Interactive tunnel for cats to play and hide.,14.99,30,20,80,30,30
+111143,Bird Feeder,Hanging feeder for wild birds.,10.99,40,30,15,10,10
+111144,Fish Tank Heater,Adjustable heater for maintaining optimal aquarium temperature.,19.99,20,40,20,5,5
+111145,Hamster Bedding,Soft bedding material for hamsters' comfort.,7.99,50,20,20,10,1
+111146,Dog Raincoat (M),Medium-sized raincoat for dogs.,18.99,15,15,40,30,5
+111147,Catnip Toys Set,Set of toys infused with catnip for endless fun.,12.99,20,50,30,20,10
+111148,Rabbit Nail Clippers,Clippers designed for safely trimming rabbit nails.,9.99,25,25,10,5,2
+111149,Dog Dental Chew,Dental chew toy for dogs to promote oral health.,10.99,35,20,15,5,5
+111150,Bird Cage Cover,Cover to provide privacy and darkness for birds.,15.99,20,35,50,40,40
+111151,Fish Tank Decorations,Assorted decorations to beautify aquariums.,24.99,40,15,50,40,30
+111152,Guinea Pig Hay Rack,Wall-mounted rack for easy access to hay for guinea pigs.,11.99,15,30,30,20,20
+111153,Dog Frisbee,Durable frisbee toy for interactive play with dogs.,7.99,30,10,20,20,1
+111154,Cat Water Fountain,Fountain to provide running water for cats.,29.99,10,25,30,20,10
+111155,Bird Bath,Plastic bath for birds to bathe and stay clean.,9.99,25,10,20,20,10
+111156,Rabbit Grooming Kit,Grooming tools for rabbits. Including brush and comb.,16.99,10,15,15,10,5
+111157,Dog GPS Tracker,GPS tracker to monitor your dog's location.,49.99,15,20,5,3,1
+111158,Cat Carrier,Sturdy carrier for transporting cats safely.,39.99,20,8,50,30,30
+111159,Bird Aviary,Spacious aviary for housing multiple birds.,129.99,8,10,60,40,60
+111160,Fish Tank Filter,Efficient filter system to maintain aquarium water quality.,39.99,10,40,20,10,15
